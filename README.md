@@ -119,5 +119,4 @@ spans (used for a more fine-grained task not explored in this project).
 
 ## Author
 
-Adabala Sri Satya Sai Shanmukha Charan — MSc Data Science / NLP coursework project
-(Coventry University, 7120CEM Natural Language Processing)
+Adabala Sri Satya Sai Shanmukha Charan — MSc Data Science
