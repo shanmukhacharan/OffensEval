@@ -77,6 +77,15 @@ python src/train_deep.py
 Try the live demo:
 ```bash
 streamlit run app/app.py
+
+### Demo screenshots
+
+**Correctly flagged as harmful:**
+![Demo - harmful example](results/demo_harmful.png)
+
+**Uncertain / borderline case** — a neutral post the model is unsure about (51% confidence),
+illustrating a real limitation of the classical baseline on a small, imbalanced dataset:
+![Demo - uncertain example](results/demo_notharmful.png)
 ```
 
 Or explore the two notebooks in `notebooks/` for the full walkthrough with visualizations.
