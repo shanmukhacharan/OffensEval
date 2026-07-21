@@ -83,7 +83,7 @@ streamlit run app/app.py
 **Correctly flagged as harmful:**
 ![Demo - harmful example](results/demo_harmful.png)
 
-**Uncertain / borderline case** — a neutral post the model is unsure about (51% confidence),
+**Uncertain / borderline case** — a neutral post the model is unsure about (60% confidence),
 illustrating a real limitation of the classical baseline on a small, imbalanced dataset:
 ![Demo - uncertain example](results/demo_notharmful.png)
 ```
